@@ -3647,6 +3647,29 @@
         "Static",
         "Responsive"
       ]
+    },
+    {
+      "name": "Open Assembly",
+      "thumb": "openassembly/thumb.png",
+      "desc": "An collaborative learning platform in AngularJS and Ruby on Rails.  Upcoming open source version!",
+      "url": "http://www.openassembly.com",
+      "info": "https://www.openassembly.com/about",
+      "submitter": "djvs",
+      "submissionDate": "2015-01-22",
+      "tags": [
+        "Production",
+        "Interactive",
+        "CSS3",
+        "HTML5",
+        "UI Design",
+        "No jQuery",
+        "Open Source",
+        "Responsive",
+        "Education",
+        "EdTech",
+        "Creative Commons content",
+        "Polymorphism"
+      ]
     }
 
   ]
